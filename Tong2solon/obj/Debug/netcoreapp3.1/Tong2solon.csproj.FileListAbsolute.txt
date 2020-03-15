@@ -1,0 +1,11 @@
+C:\Users\Admin\OneDrive\Desktop\C#\Tong2solon\bin\Debug\netcoreapp3.1\Tong2solon.exe
+C:\Users\Admin\OneDrive\Desktop\C#\Tong2solon\bin\Debug\netcoreapp3.1\Tong2solon.deps.json
+C:\Users\Admin\OneDrive\Desktop\C#\Tong2solon\bin\Debug\netcoreapp3.1\Tong2solon.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\C#\Tong2solon\bin\Debug\netcoreapp3.1\Tong2solon.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Desktop\C#\Tong2solon\bin\Debug\netcoreapp3.1\Tong2solon.dll
+C:\Users\Admin\OneDrive\Desktop\C#\Tong2solon\bin\Debug\netcoreapp3.1\Tong2solon.pdb
+C:\Users\Admin\OneDrive\Desktop\C#\Tong2solon\obj\Debug\netcoreapp3.1\Tong2solon.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\C#\Tong2solon\obj\Debug\netcoreapp3.1\Tong2solon.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\C#\Tong2solon\obj\Debug\netcoreapp3.1\Tong2solon.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\C#\Tong2solon\obj\Debug\netcoreapp3.1\Tong2solon.dll
+C:\Users\Admin\OneDrive\Desktop\C#\Tong2solon\obj\Debug\netcoreapp3.1\Tong2solon.pdb

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cơ bản", "cơ bản.csproj", "{BB9E44CA-7688-484A-91A6-0BF2AAB4A32F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tong2solon", "..\Tong2solon\Tong2solon.csproj", "{864CE36A-2E2C-4601-94BE-307BD3C62D84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "docFile", "..\docFile\docFile.csproj", "{28C1934D-6676-49FC-A347-C1B77241DFBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB9E44CA-7688-484A-91A6-0BF2AAB4A32F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB9E44CA-7688-484A-91A6-0BF2AAB4A32F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB9E44CA-7688-484A-91A6-0BF2AAB4A32F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB9E44CA-7688-484A-91A6-0BF2AAB4A32F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{864CE36A-2E2C-4601-94BE-307BD3C62D84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{864CE36A-2E2C-4601-94BE-307BD3C62D84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{864CE36A-2E2C-4601-94BE-307BD3C62D84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{864CE36A-2E2C-4601-94BE-307BD3C62D84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28C1934D-6676-49FC-A347-C1B77241DFBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28C1934D-6676-49FC-A347-C1B77241DFBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28C1934D-6676-49FC-A347-C1B77241DFBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28C1934D-6676-49FC-A347-C1B77241DFBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4535DA7-43E7-45DD-867D-A9D4C06EF19C}
+	EndGlobalSection
+EndGlobal

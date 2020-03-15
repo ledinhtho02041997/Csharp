@@ -1,0 +1,9 @@
+C:\Users\Admin\OneDrive\Desktop\C#\Send_Email_File\bin\Debug\Send_Email_File.exe.config
+C:\Users\Admin\OneDrive\Desktop\C#\Send_Email_File\bin\Debug\Send_Email_File.exe
+C:\Users\Admin\OneDrive\Desktop\C#\Send_Email_File\bin\Debug\Send_Email_File.pdb
+C:\Users\Admin\OneDrive\Desktop\C#\Send_Email_File\obj\Debug\Send_Email_File.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\C#\Send_Email_File\obj\Debug\Send_Email_File.Form1.resources
+C:\Users\Admin\OneDrive\Desktop\C#\Send_Email_File\obj\Debug\Send_Email_File.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Desktop\C#\Send_Email_File\obj\Debug\Send_Email_File.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Desktop\C#\Send_Email_File\obj\Debug\Send_Email_File.exe
+C:\Users\Admin\OneDrive\Desktop\C#\Send_Email_File\obj\Debug\Send_Email_File.pdb

@@ -1,0 +1,11 @@
+C:\Users\Admin\OneDrive\Desktop\C#\bt_cb\bin\Debug\netcoreapp3.1\bt_cb.exe
+C:\Users\Admin\OneDrive\Desktop\C#\bt_cb\bin\Debug\netcoreapp3.1\bt_cb.deps.json
+C:\Users\Admin\OneDrive\Desktop\C#\bt_cb\bin\Debug\netcoreapp3.1\bt_cb.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\C#\bt_cb\bin\Debug\netcoreapp3.1\bt_cb.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Desktop\C#\bt_cb\bin\Debug\netcoreapp3.1\bt_cb.dll
+C:\Users\Admin\OneDrive\Desktop\C#\bt_cb\bin\Debug\netcoreapp3.1\bt_cb.pdb
+C:\Users\Admin\OneDrive\Desktop\C#\bt_cb\obj\Debug\netcoreapp3.1\bt_cb.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\C#\bt_cb\obj\Debug\netcoreapp3.1\bt_cb.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\C#\bt_cb\obj\Debug\netcoreapp3.1\bt_cb.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\C#\bt_cb\obj\Debug\netcoreapp3.1\bt_cb.dll
+C:\Users\Admin\OneDrive\Desktop\C#\bt_cb\obj\Debug\netcoreapp3.1\bt_cb.pdb

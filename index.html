@@ -1,0 +1,22 @@
+<script language="javascript "type="text/javascript">
+    var xau =prompt("nhập xâu cần giải nén");
+    var so=0,i;
+    var kq="";
+
+    while (xau.length>0){
+        while (xau.charAt(0)<10)
+        {
+            so=so*10+parseInt(xau.charAt(0));
+            xau=xau.substr(1); 
+        }
+        for (var i=0;i<so;i++) kq=kq+xau.charAt(0);
+        if (so==0) kq=kq+xau.charAt(0);
+        so=0;
+        xau=xau.substr(1);        
+    }    
+    
+    document.write(kq);
+
+   
+
+</script>

@@ -1,0 +1,91 @@
+﻿* {
+    margin:0px;
+    padding:0px;
+    font-family:Arial;
+}
+.header {
+    width: 100%;
+    background: #4b7902;
+    text-align:center;
+    color:white;
+    text-transform:uppercase;
+    font-size:25px;
+    height:55px;
+    line-height:55px;
+}
+.main {
+    width:100%;
+    background:white;
+    padding-top: 50px;
+    padding-bottom:50px;
+}
+.main .content {
+    margin:0px auto;
+    width: 450px;
+     color:#4b7902;
+
+}
+.main .content .row {
+    display:block;
+    font-size: 20px;
+    height:36px;
+    line-height:36px;
+    margin-top:30px;
+}
+.main .content .row input {
+    border: 1px solid #95f204;
+    width:300px;
+    height:36px;
+    float:right;
+}
+.main .content .row select {
+    border: 1px solid #95f204;
+    width:300px;
+    height:36px;
+    float:right;
+}
+.main .content .row .button {
+    background:#4b7902;
+    color:white;
+    width:140px;
+    height:40px;
+    text-align:center;
+    line-height:40px;
+    float:right;
+    margin-right: 160px;
+    border-radius:5px;
+    border:0px #4b7902;
+}
+.main .content .row .drop {
+     border: 1px solid #95f204;
+    width:300px;
+    height:36px;
+    float:right;
+}
+.main .content .row .button:hover {
+    background:#68a00e;
+}
+.bang {
+    background:white;
+    width:1050px;
+    color:#4b7902;
+    margin:0px auto;
+    height:auto;
+    padding-bottom:50px;
+}
+
+.bang table, th, td {
+    border: 1px solid #95f204;
+    border-collapse: collapse;
+}
+
+.bang table tr th,td {
+    text-align:center;
+    font-size:15px;
+    padding: 10px 0px;
+    width:150px;
+}
+a {
+    text-decoration: none !important;
+    color: blue;
+}

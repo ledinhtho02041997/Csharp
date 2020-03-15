@@ -1,0 +1,17 @@
+C:\Users\Admin\OneDrive\Desktop\C#\API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Admin\OneDrive\Desktop\C#\API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Admin\OneDrive\Desktop\C#\API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Admin\OneDrive\Desktop\C#\API\bin\Debug\netcoreapp3.1\API.exe
+C:\Users\Admin\OneDrive\Desktop\C#\API\bin\Debug\netcoreapp3.1\API.deps.json
+C:\Users\Admin\OneDrive\Desktop\C#\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\C#\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Desktop\C#\API\bin\Debug\netcoreapp3.1\API.dll
+C:\Users\Admin\OneDrive\Desktop\C#\API\bin\Debug\netcoreapp3.1\API.pdb
+C:\Users\Admin\OneDrive\Desktop\C#\API\obj\Debug\netcoreapp3.1\API.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\C#\API\obj\Debug\netcoreapp3.1\staticwebassets\API.StaticWebAssets.Manifest.cache
+C:\Users\Admin\OneDrive\Desktop\C#\API\obj\Debug\netcoreapp3.1\staticwebassets\API.StaticWebAssets.xml
+C:\Users\Admin\OneDrive\Desktop\C#\API\obj\Debug\netcoreapp3.1\API.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\C#\API\obj\Debug\netcoreapp3.1\API.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\C#\API\obj\Debug\netcoreapp3.1\API.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\OneDrive\Desktop\C#\API\obj\Debug\netcoreapp3.1\API.dll
+C:\Users\Admin\OneDrive\Desktop\C#\API\obj\Debug\netcoreapp3.1\API.pdb

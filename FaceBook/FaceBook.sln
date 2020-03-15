@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FaceBook", "FaceBook.csproj", "{C06D01B6-8525-47C1-B952-1F6C446AD0BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C06D01B6-8525-47C1-B952-1F6C446AD0BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C06D01B6-8525-47C1-B952-1F6C446AD0BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C06D01B6-8525-47C1-B952-1F6C446AD0BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C06D01B6-8525-47C1-B952-1F6C446AD0BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1026D625-2670-4237-8046-35DC680E10DD}
+	EndGlobalSection
+EndGlobal

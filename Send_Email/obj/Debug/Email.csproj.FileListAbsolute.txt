@@ -1,0 +1,9 @@
+C:\Users\Admin\OneDrive\Desktop\C#\Email\bin\Debug\Email.exe.config
+C:\Users\Admin\OneDrive\Desktop\C#\Email\bin\Debug\Email.exe
+C:\Users\Admin\OneDrive\Desktop\C#\Email\bin\Debug\Email.pdb
+C:\Users\Admin\OneDrive\Desktop\C#\Email\obj\Debug\Email.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\C#\Email\obj\Debug\Email.Form1.resources
+C:\Users\Admin\OneDrive\Desktop\C#\Email\obj\Debug\Email.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Desktop\C#\Email\obj\Debug\Email.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Desktop\C#\Email\obj\Debug\Email.exe
+C:\Users\Admin\OneDrive\Desktop\C#\Email\obj\Debug\Email.pdb

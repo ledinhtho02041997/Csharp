@@ -1,0 +1,11 @@
+C:\Users\Admin\OneDrive\Desktop\C#\cơ bản\bin\Debug\netcoreapp3.1\cơ bản.exe
+C:\Users\Admin\OneDrive\Desktop\C#\cơ bản\bin\Debug\netcoreapp3.1\cơ bản.deps.json
+C:\Users\Admin\OneDrive\Desktop\C#\cơ bản\bin\Debug\netcoreapp3.1\cơ bản.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\C#\cơ bản\bin\Debug\netcoreapp3.1\cơ bản.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Desktop\C#\cơ bản\bin\Debug\netcoreapp3.1\cơ bản.dll
+C:\Users\Admin\OneDrive\Desktop\C#\cơ bản\bin\Debug\netcoreapp3.1\cơ bản.pdb
+C:\Users\Admin\OneDrive\Desktop\C#\cơ bản\obj\Debug\netcoreapp3.1\cơ bản.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\C#\cơ bản\obj\Debug\netcoreapp3.1\cơ bản.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\C#\cơ bản\obj\Debug\netcoreapp3.1\cơ bản.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\C#\cơ bản\obj\Debug\netcoreapp3.1\cơ bản.dll
+C:\Users\Admin\OneDrive\Desktop\C#\cơ bản\obj\Debug\netcoreapp3.1\cơ bản.pdb
